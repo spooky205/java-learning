@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+
+       int idade = 21;
+       boolean oflegalage = idade >= 18;
+
+       System.out.println("idade: "+ idade);
+       System.out.println("oflegalage: "+ oflegalage);
+
+
+    }
+}
